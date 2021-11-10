@@ -1,7 +1,7 @@
 # custom_pose_capture
 Goal: Create 3D pose render from a single RGB Video file.
 ## Workflow:
-Video->Detectorn(2D Coordinates.npy)->VideoPose3D(3d joints.npy)->(TODO)HRM/bvh_skeleton(.bvh)->(TODO)Blender(Render outut)
+Video->Detectron(2D Coordinates.npy)->VideoPose3D(3d joints.npy)->(TODO)HRM/bvh_skeleton(.bvh)->(TODO)Blender(Render outut)
 ## How to Use it
 Collab -> Open Notebook -> Github -> Run all cells -> Save output
 ## References
