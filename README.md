@@ -2,7 +2,9 @@
 Goal: Create 3D pose render from a single RGB Video file.
 ## Workflow:
 Video->Detectorn(2D Coordinates.npy)->VideoPose3D(3d joints.npy)->(TODO)HRM/bvh_skeleton(.bvh)->(TODO)Blender(Render outut)
-## 
+## How to Use it:
+Everything is implemented using google collab so all dependancies are installed inside it.
+Collab -> Open Notebook -> Github -> Run all cells -> Save output
 ## References
 1. Detectron: https://github.com/facebookresearch/Detectron/
 2. VideoPose3D: https://github.com/facebookresearch/VideoPose3D
