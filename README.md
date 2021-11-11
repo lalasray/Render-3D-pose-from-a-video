@@ -1,13 +1,24 @@
 # Render-3D-pose-from-a-video
+
 Goal: Create 3D pose render from a single RGB Video file.
 ## Workflow:
-Video->Detectron(2D Coordinates.npy)->VideoPose3D(3d joints.npy)->bvh_skeleton(.bvh)->(TODO)Blender(Render outut)
+
+Video->Detectron(2D Coordinates.npy)->VideoPose3D(3d joints.npy)->bvh_skeleton(.bvh)->Blender(Render outut)->(TODO)Custom mesh with animation
 ## How to Use it
 
 1. clone this repository
 2. Collab -> Open Notebook -> Github -> files -> file upload -> upload bvh_skeleton, utils and camera.h5 -> Run all cells -> Save output in bvh format
-3. Import bvh file to blender & render(TODO)
-## References
+3. Import bvh file to blender & render.
+4. Create a custom Mesh with rig to put that animation.(TODO)
+
+## Preview 
+![Input Video](https://github.com/lalasray/Render-3D-pose-from-a-video/blob/main/input.gif)
+
+![BVH render in blender](https://github.com/lalasray/Render-3D-pose-from-a-video/blob/main/ouput.gif
+## References)
+
+
 1. Detectron: https://github.com/facebookresearch/Detectron/
 2. VideoPose3D: https://github.com/facebookresearch/VideoPose3D
 3. bvh_skeleton: https://github.com/KevinLTT/video2bvh
+4. Retarget BVH: http://diffeomorphic.blogspot.com/p/bvh-retargeter.html
