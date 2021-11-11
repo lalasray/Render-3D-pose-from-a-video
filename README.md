@@ -14,7 +14,7 @@ Video->Detectron(2D Coordinates.npy)->VideoPose3D(3d joints.npy)->bvh_skeleton(.
 ## Preview 
 ![Input Video](https://github.com/lalasray/Render-3D-pose-from-a-video/blob/main/input.gif)
 
-![BVH render in blender](https://github.com/lalasray/Render-3D-pose-from-a-video/blob/main/ouput.gif
+![BVH render in blender](https://github.com/lalasray/Render-3D-pose-from-a-video/blob/main/ouput.gif)
 ## References)
 
 
