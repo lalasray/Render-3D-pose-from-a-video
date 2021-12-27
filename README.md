@@ -5,7 +5,7 @@ Goal: Create 3D pose render from a single RGB Video file.
 
 Video->Detectron(2D Coordinates.npy)->VideoPose3D(3d joints.npy)->bvh_skeleton(.bvh)->Blender(Render outut)->(TODO)Custom mesh with animation
 
-Note : Use https://drive.google.com/file/d/1FSztcynGULFT7nkx6UIppIBy0dBwnmet/view?usp=sharing checkpoint to preserve trajectories
+Note : Use https://drive.google.com/file/d/1FSztcynGULFT7nkx6UIppIBy0dBwnmet/view?usp=sharing or https://ufile.io/hi6y4b1d checkpoint to preserve trajectories
 ## How to Use it
 
 1. clone this repository
