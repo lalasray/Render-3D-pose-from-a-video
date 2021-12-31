@@ -11,7 +11,7 @@ Note : Use https://drive.google.com/file/d/1FSztcynGULFT7nkx6UIppIBy0dBwnmet/vie
 1. clone this repository
 2. Collab -> Open Notebook -> Github -> Run all cells -> Save output in bvh format
 3. Import bvh file to blender & render.
-4. Create a custom Mesh with rig to put that animation.(TODO)
+4. Create a custom Mesh with rig to put that animation.
 
 
 ## Preview 
