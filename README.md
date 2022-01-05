@@ -18,8 +18,10 @@ Note : Use https://drive.google.com/file/d/1FSztcynGULFT7nkx6UIppIBy0dBwnmet/vie
 
 ![BVH render in blender](https://github.com/lalasray/Render-3D-pose-from-a-video/blob/main/ouput.gif)
 
+![Rigged render](https://github.com/lalasray/Render-3D-pose-from-a-video/blob/main/ouput_2.gif)
 
-## References)
+
+## References
 
 
 1. Detectron: https://github.com/facebookresearch/Detectron/
