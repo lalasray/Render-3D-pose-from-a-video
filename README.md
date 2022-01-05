@@ -26,3 +26,5 @@ Note : Use https://drive.google.com/file/d/1FSztcynGULFT7nkx6UIppIBy0dBwnmet/vie
 2. VideoPose3D: https://github.com/facebookresearch/VideoPose3D
 3. bvh_skeleton: https://github.com/KevinLTT/video2bvh
 4. Retarget BVH: http://diffeomorphic.blogspot.com/p/bvh-retargeter.html
+
+*The untitled.blend is an example how everything is implemented and can be used as a reference.
