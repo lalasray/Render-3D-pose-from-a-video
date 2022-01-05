@@ -10,14 +10,15 @@ Note : Use https://drive.google.com/file/d/1FSztcynGULFT7nkx6UIppIBy0dBwnmet/vie
 
 1. clone this repository
 2. Collab -> Open Notebook -> Github -> Run all cells -> Save output in bvh format
-3. Import bvh file to blender & render.
-4. Create a custom Mesh with rig to put that animation.
+3. Import bvh file to blender, import the human mesh and use diffeomorphic retageter to put the animation on the mesh.
 
 
 ## Preview 
 ![Input Video](https://github.com/lalasray/Render-3D-pose-from-a-video/blob/main/input.gif)
 
 ![BVH render in blender](https://github.com/lalasray/Render-3D-pose-from-a-video/blob/main/ouput.gif)
+
+
 ## References)
 
 
